@@ -1,0 +1,25 @@
+# Render.com configuration
+# render.yaml
+
+services:
+  - type: web
+    name: secta-machine-learning
+    env: docker
+    plan: free
+    region: frankfurt  # Cambia a oregon si prefieres USA
+    
+    # Health check
+    healthCheckPath: /_stcore/health
+    
+    # Variables de entorno (añade las que necesites)
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11
+      - key: PORT
+        value: 8501
+    
+    # Auto-deploy cuando haces push a main
+    autoDeploy: true
+    
+    # Branch
+    branch: main

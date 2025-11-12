@@ -1,0 +1,7 @@
+Nombre,Capítulo,Originalidad,Similitud,Nota_Total,Exploracion,Preprocesamiento,Modelos,Evaluacion,Documentacion,Comentario,Fecha
+ana_e,Capítulo 2,Original,0.047,1.5,1.2,0.0,0.0,0.0,0.3,El trabajo está muy incompleto y no cumple con los objetivos mínimos del ejercicio. Solo se han realizado algunos pasos iniciales en la carga y visualización de los datos.,2025-11-09
+ana_e,Capítulo 2,Original,0.046,4.2,1.8,1.2,0.8,0.2,0.2,"El estudiante ha realizado un análisis descriptivo básico de los datos y ha implementado algunos pasos de preprocesamiento. Sin embargo, la implementación de modelos es limitada y no hay una evaluación y análisis profundos de los resultados. La documentación también es básica y no proporciona conclusiones claras.",2025-11-09
+eduardo,Capítulo 2,Original,0.01,3.0,0.5,0.0,0.0,0.0,0.5,No se pudo evaluar automáticamente. Revisión manual necesaria. Nota provisional baja hasta confirmación.,2025-11-09
+eduardo,Capítulo 2,Original,0.01,3.0,0.5,0.0,0.0,0.0,0.5,No se pudo evaluar automáticamente. Revisión manual necesaria. Nota provisional baja hasta confirmación.,2025-11-09
+eduardo,Capítulo 2,Copia directa,0.999,0.0,0.0,0.0,0.0,0.0,0.0,Copia directa detectada.,2025-11-12
+eduardo,Capítulo 2,Original,0.01,3.0,0.5,0.0,0.0,0.0,0.5,No se pudo evaluar automáticamente. Revisión manual necesaria. Nota provisional baja hasta confirmación.,2025-11-12
